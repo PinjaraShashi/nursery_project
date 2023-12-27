@@ -1,0 +1,92 @@
+/* .menu-page {
+  text-align: center;
+  margin: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.plant-card {
+  border: 1px solid #ccc;
+  margin: 10px;
+  width: 300px;
+  text-align: center;
+}
+.plant-cards{
+  width: 500px;
+}
+.plant-card button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.plant-card button:hover {
+  background-color: #45a049;
+}
+
+.last{
+  color: red;
+  text-align: center;
+  background-color: #07090a;
+  padding-top: 50px;
+}
+.color{
+  color: rgb(255, 255, 255);
+}  */
+
+/* .plant-card button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.plant-card button:hover {
+  background-color: #45a049;
+}
+.outer {
+  background-color: blue;
+}
+.heading h2 {
+  text-align: center;
+}
+.footer1 {
+  text-align: center;
+  background-color: aqua;
+}
+
+.heading .plant-cards{
+  width: 300px;
+  position: absolute;
+  height: 400px;
+} */
+
+.plant-card button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.plant-card button:hover {
+  background-color: #45a049;
+}
+.outer{
+background-color: blue;
+
+}
+.heading2 h2 {
+text-align: center;
+}
+
+.footer1 {
+text-align: center;
+background-color: aqua;
+height: 30%;
+}

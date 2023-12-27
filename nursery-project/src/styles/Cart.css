@@ -1,0 +1,36 @@
+.cart {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  background-color: #f9f9f9;
+  /* padding-left: 40%; */
+}
+
+.cart h2 {
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
+
+.cart ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.cart li {
+  margin-bottom: 10px;
+}
+
+.Footer {
+  text-align: center;
+}
+
+.copy {
+  padding-left: 400px;
+  padding-top: 150px;
+}
+
+.Box {
+  padding-left: 40%;
+}
